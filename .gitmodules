@@ -1,0 +1,6 @@
+[submodule "BSPlus/Stream Host"]
+	path = BSPlus/Stream Host
+	url = https://github.com/qlulezz/bsplus-score-overlay
+[submodule "BSPlus/Players + Coordinators + Stream Host/PC"]
+	path = BSPlus/Players + Coordinators + Stream Host/PC
+	url = https://github.com/hardcpp/BeatSaberPlus
