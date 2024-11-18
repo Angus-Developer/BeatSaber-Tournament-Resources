@@ -1,6 +1,0 @@
-D:\beatsabertournamentmod\pc\BStournamentMod\BStournamentMod\obj\Debug\net472\BStournamentMod.csproj.AssemblyReference.cache
-D:\beatsabertournamentmod\pc\BStournamentMod\BStournamentMod\obj\Debug\net472\BStournamentMod.GeneratedMSBuildEditorConfig.editorconfig
-D:\beatsabertournamentmod\pc\BStournamentMod\BStournamentMod\obj\Debug\net472\BStournamentMod.AssemblyInfoInputs.cache
-D:\beatsabertournamentmod\pc\BStournamentMod\BStournamentMod\obj\Debug\net472\BStournamentMod.AssemblyInfo.cs
-D:\beatsabertournamentmod\pc\BStournamentMod\BStournamentMod\obj\Debug\net472\BStournamentMod.csproj.CoreCompileInputs.cache
-D:\beatsabertournamentmod\pc\BStournamentMod\BStournamentMod\obj\Debug\net472\BStournamentMod.sourcelink.json
