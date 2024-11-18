@@ -1,0 +1,15 @@
+[submodule "TournamentAssistant/Stream Host"]
+	path = TournamentAssistant/Stream Host
+	url = https://github.com/mgtourney/overlay
+[submodule "TournamentAssistant/Coordinators"]
+	path = TournamentAssistant/Coordinators
+	url = https://github.com/MatrikMoon/TournamentAssistant
+[submodule "TournamentAssistant/Server Host"]
+	path = TournamentAssistant/Server Host
+	url = https://github.com/MatrikMoon/TournamentAssistant
+[submodule "BSPlus/Players + Coordinators/Quest/1.37.0"]
+	path = BSPlus/Players + Coordinators/Quest/1.37.0
+	url = https://github.com/hardcpp/BeatSaberPlus
+[submodule "TournamentAssistant/Players/v1.34.2"]
+	path = TournamentAssistant/Players/v1.34.2
+	url = https://github.com/MatrikMoon/TournamentAssistant
