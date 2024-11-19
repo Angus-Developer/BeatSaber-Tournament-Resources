@@ -13,3 +13,9 @@
 [submodule "TournamentAssistant/Server Host"]
 	path = TournamentAssistant/Server Host
 	url = https://github.com/MatrikMoon/TournamentAssistant
+[submodule "TournamentAssistant/Stream Host/Relay"]
+	path = TournamentAssistant/Stream Host/Relay
+	url = https://github.com/mgtourney/relay
+[submodule "TournamentAssistant/Stream Host/Overlay"]
+	path = TournamentAssistant/Stream Host/Overlay
+	url = https://github.com/mgtourney/overlay
