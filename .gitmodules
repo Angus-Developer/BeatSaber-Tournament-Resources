@@ -4,3 +4,12 @@
 [submodule "BSPlus/Players + Coordinators + Stream Host/PC"]
 	path = BSPlus/Players + Coordinators + Stream Host/PC
 	url = https://github.com/hardcpp/BeatSaberPlus
+[submodule "TournamentAssistant/Coordinators"]
+	path = TournamentAssistant/Coordinators
+	url = https://github.com/MatrikMoon/TournamentAssistant
+[submodule "TournamentAssistant/Players"]
+	path = TournamentAssistant/Players
+	url = https://github.com/MatrikMoon/TournamentAssistant
+[submodule "TournamentAssistant/Server Host"]
+	path = TournamentAssistant/Server Host
+	url = https://github.com/MatrikMoon/TournamentAssistant
